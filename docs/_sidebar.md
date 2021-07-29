@@ -1,6 +1,30 @@
 - [Home](/)
-
 ---
-- Category Name
-- [Page](category/page.md)
-- [Page](category/page.md)
+- General
+- [About](general/about.md)
+- [Help](general/help.md)
+- [Link Account](conf/link.md)
+---
+- Configuration
+- [Color](conf/color.md)
+- [Display](conf/display.md)
+- [Prefix](conf/prefix.md)
+---
+- Social
+- [Your Friends](social/friends.md)
+- [Mutual Friends](social/mutual_friends.md)
+- [Guild](social/guild.md)
+- [Mutual Friends](social/mutual_friends.md)
+---
+- Statistics
+- [Daily](stats/daily.md)
+- [Weekly](stats/weekly.md)
+- [Monthly](stats/monthly.md)
+---
+- Sessions
+- [All Sessions](sessions/sessions.md)
+- [Current Session](sessions/session.md)
+---
+- Misc
+- [Projections](misc/projections.md)
+- [Skyblock](misc/skyblock.md)

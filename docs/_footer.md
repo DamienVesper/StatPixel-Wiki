@@ -1,5 +1,5 @@
 <br><br>
 
-<hr class="rounded">
+<hr>
 
-- [Discord](https://statpixel.net/discord)
+[Discord](https://statpixel.net/discord)

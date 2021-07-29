@@ -1,3 +1,13 @@
 :root {
     --accent: #347AEB !important;
 }
+
+/* Bootstrap messes with the category tags */
+.collapse:not(.show) {
+    display: initial !important;
+}
+
+/* Sidebar toggle button overlays text */
+.sidebar-toggle {
+    display: none !important;
+}
