@@ -6,4 +6,3 @@ View a player's Skyblock statistics.
 ```
 =skyblock [username]
 ```
-

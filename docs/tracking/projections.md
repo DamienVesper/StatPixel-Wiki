@@ -6,4 +6,3 @@ Project a user's BedWars statistics.
 ```
 =project [username]
 ```
-
