@@ -27,3 +27,4 @@
 --- 
 - Misc
 - [Skyblock](misc/skyblock.md)
+- [Server Leaderboard](misc/server_leaderboard.md)
