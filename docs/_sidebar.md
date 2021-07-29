@@ -7,6 +7,7 @@
 ---
 - Configuration
 - [Color](conf/color.md)
+- [Chart](conf/chart.md)
 - [Display](conf/display.md)
 - [Prefix](conf/prefix.md)
 ---
