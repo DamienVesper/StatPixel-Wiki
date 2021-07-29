@@ -14,7 +14,7 @@
 - Social
 - [Friends](social/friends.md)
 - [Mutual Friends](social/mutual.md)
-- [Guild](social/guild.md)
+- [Guilds](social/guilds.md)
 ---
 - Statistics
 - [Daily](stats/daily.md)

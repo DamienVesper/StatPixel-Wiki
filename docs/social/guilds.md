@@ -1,4 +1,4 @@
-# Guild
+# Guilds
 ---
 View information about a guild.
 ```
