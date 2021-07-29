@@ -10,7 +10,7 @@ View game stats in a guild.
 =guild games [name]
 ```
 ---
-View a member's stats in a  guild.
+View a member's stats in a guild.
 ```
 =guild member [name]
 ```
