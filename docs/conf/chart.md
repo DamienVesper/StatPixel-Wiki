@@ -7,4 +7,4 @@ Toggle charts.
 =chart
 ```
 ---
-**NOTE:**  Only the owner of the guild can run this command.
+**NOTE:** Only the owner of the guild can run this command.

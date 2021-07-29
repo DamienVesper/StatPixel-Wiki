@@ -7,4 +7,4 @@ Sets the prefix for StatPixel. If you forget it, you can always tag the bot as a
 =prefix <prefix>
 ```
 ---
-**NOTE:**  Only the owner of the guild can run this command.
+**NOTE:** Only the owner of the guild can run this command.

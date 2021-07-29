@@ -7,4 +7,4 @@ Sets the embed colour of StatPixel.
 =color <color>
 ```
 ---
-**NOTE:**  Only the owner of the guild can run this command.
+**NOTE:** Only the owner of the guild can run this command.
