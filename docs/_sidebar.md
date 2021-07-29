@@ -3,7 +3,7 @@
 - General
 - [About](general/about.md)
 - [Help](general/help.md)
-- [Link Account](conf/link.md)
+- [Link Account](general/link.md)
 ---
 - Configuration
 - [Color](conf/color.md)
@@ -14,7 +14,6 @@
 - [Your Friends](social/friends.md)
 - [Mutual Friends](social/mutual_friends.md)
 - [Guild](social/guild.md)
-- [Mutual Friends](social/mutual_friends.md)
 ---
 - Statistics
 - [Daily](stats/daily.md)
