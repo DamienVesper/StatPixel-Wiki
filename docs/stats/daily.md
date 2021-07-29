@@ -4,5 +4,5 @@ View daily statistics of a player.
 
 ### Usage
 ```
-=daily [username]
+=daily [gamemode] [username]
 ```

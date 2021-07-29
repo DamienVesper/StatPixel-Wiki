@@ -4,5 +4,5 @@ View monthly statistics of a player.
 
 ### Usage
 ```
-=monthly [username]
+=monthly [gamemode] [username]
 ```
