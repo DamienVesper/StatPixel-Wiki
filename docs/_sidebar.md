@@ -11,8 +11,8 @@
 - [Prefix](conf/prefix.md)
 ---
 - Social
-- [Your Friends](social/friends.md)
-- [Mutual Friends](social/mutual_friends.md)
+- [Friends](social/friends.md)
+- [Mutual Friends](social/mutual.md)
 - [Guild](social/guild.md)
 ---
 - Statistics

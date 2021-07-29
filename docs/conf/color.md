@@ -6,4 +6,3 @@ Sets the embed colour of StatPixel.
 ```
 =color <color>
 ```
-* Color: The name of the color to set.

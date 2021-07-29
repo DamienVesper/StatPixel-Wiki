@@ -6,4 +6,3 @@ Link yourself to any username to quickly search for statistics.
 ```
 =link <username>
 ```
-* Username: Your Minecraft username. 

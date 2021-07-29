@@ -6,4 +6,3 @@ Sets the prefix for StatPixel. If you forget it, you can always tag the bot as a
 ```
 =prefix <prefix>
 ```
-* Prefix: The prefix to set for the bot.
