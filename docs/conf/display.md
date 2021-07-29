@@ -6,3 +6,5 @@ Toggles image and text statistics.
 ```
 =display
 ```
+---
+**NOTE:**  Only the owner of the guild can run this command.
