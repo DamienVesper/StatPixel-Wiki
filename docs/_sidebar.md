@@ -20,10 +20,9 @@
 - [Weekly](stats/weekly.md)
 - [Monthly](stats/monthly.md)
 ---
-- Sessions
-- [All Sessions](sessions/sessions.md)
-- [Current Session](sessions/session.md)
----
+- Tracking
+- [Sessions](tracking/sessions.md)
+- [Projections](tracking/projections.md)
+--- 
 - Misc
-- [Projections](misc/projections.md)
 - [Skyblock](misc/skyblock.md)
