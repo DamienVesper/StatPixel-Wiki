@@ -2,13 +2,19 @@
 ---
 View a user's current session.
 ```
-=session [username]
+=session [gamemode] [username]
 ```
 ---
 Switch your current active session.
 ```
 =session use <id>
 ```
+---
+Create a session.
+```
+=session create
+```
+---
 View all sessions.
 ```
 =sessions
