@@ -7,42 +7,50 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>StatPixel Wiki</title>
-    <meta name="author" content="StatPixel Engineers" />
     <meta name="description" content="Gather near real-time statistics for your Hypixel profile!">
-    <meta name="publisher" content="StatPixel Engineers" />
     <meta name="keywords" content="hypixel, discord, iynprojects">
+
+    <meta name="author" content="StatPixel Engineers" />
+    <meta name="publisher" content="StatPixel Engineers" />
     <meta name="theme-color" content="#091A28" />
+
     <meta name="topic" content="Minecraft" />
     <meta name="copyright" content="StatPixel" />
 
+    <!-- OpenGraph -->
     <meta property="og:title" content="StatPixel">
     <meta property="og:description" content="Gather near real-time statistics for your Hypixel profile!">
+    <meta property="og:image" content="https://wiki.statpixel.net/assets/img/logos/favicon.png">
+    <meta property="og:url" content="https://wiki.statpixel.net">
 
+    <!-- Icon -->
     <link rel="icon" href="/assets/img/logos/favicon.png">
 
+    <!-- Library Stylesheets -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
-
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css">
+
+    <!-- Custom Stylesheets -->
     <link rel="stylesheet" href="/assets/css/index.css">
+
+    <!-- Docsify -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js" defer></script>
 </head>
 <body>
     <div id="app"></div>
 
     <script>
         window.$docsify = {
-            homepage: `home.md`,
-            name: `StatPixel Wiki`,
+            homepage: "home.md",
+            name: "StatPixel Wiki",
             coverpage: false,
             loadSidebar: true,
             loadFooter: true,
             maxLevel: 10,
-            logo: `/assets/img/logos/splash.png`
+            logo: "/assets/img/logos/splash.png"
         };
     </script>
-
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
-
-    <script src="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
 </html>
