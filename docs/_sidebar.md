@@ -1,30 +1,30 @@
 - [Home](/)
 ---
 - General
-- [About](general/about.md)
-- [Help](general/help.md)
-- [Link Account](general/link.md)
+  - [About](general/about.md)
+  - [Help](general/help.md)
+  - [Link Account](general/link.md)
 ---
 - Configuration
-- [Color](conf/color.md)
-- [Chart](conf/chart.md)
-- [Display](conf/display.md)
-- [Prefix](conf/prefix.md)
+  - [Color](conf/color.md)
+  - [Chart](conf/chart.md)
+  - [Display](conf/display.md)
+  - [Prefix](conf/prefix.md)
 ---
 - Social
-- [Friends](social/friends.md)
-- [Mutual Friends](social/mutual.md)
-- [Guilds](social/guilds.md)
+  - [Friends](social/friends.md)
+  - [Mutual Friends](social/mutual.md)
+  - [Guilds](social/guilds.md)
 ---
 - Statistics
-- [Daily](stats/daily.md)
-- [Weekly](stats/weekly.md)
-- [Monthly](stats/monthly.md)
+  - [Daily](stats/daily.md)
+  - [Weekly](stats/weekly.md)
+  - [Monthly](stats/monthly.md)
 ---
 - Tracking
-- [Sessions](tracking/sessions.md)
-- [Projections](tracking/projections.md)
+  - [Sessions](tracking/sessions.md)
+  - [Projections](tracking/projections.md)
 --- 
 - Misc
-- [Skyblock](misc/skyblock.md)
-- [Server Leaderboard](misc/server_leaderboard.md)
+  - [Skyblock](misc/skyblock.md)
+  - [Server Leaderboard](misc/server_leaderboard.md)

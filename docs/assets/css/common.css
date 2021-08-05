@@ -1,0 +1,26 @@
+:root {
+    --accent: #347AEB !important;
+}
+
+/* Bootstrap messes with the category tags */
+.collapse:not(.show) {
+    display: initial !important;
+}
+
+/* Mode toggle overlays text on mobile */
+#docsify-darklight-theme {
+    display: none !important;
+}
+
+@media only screen and (min-width: 768px) {
+    /* This  */
+    #docsify-darklight-theme {
+        display: block !important;
+    }
+
+    /* Sidebar overlays tabs on desktop */
+    .sidebar-toggle {
+        display: none !important;
+    }
+}
+
